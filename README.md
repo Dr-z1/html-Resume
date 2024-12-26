@@ -1,11 +1,15 @@
-# html-Resume
+# HTML-Resume
 
 
 
-Html-Resume : A Webpage Have A Resume 
+**HTML Resume: A Webpage Featuring a Personal Resume**
 
-The Project Was Made During The Time I Were Taking A Course Called:( The Complete 2024 Web Development Bootcamp) on [Udemy]
+**This project was created as part of my learning experience in the course The Complete 2024 Web Development Bootcamp on Udemy, taught by Dr. Angela Yu, Developer and Lead Instructor.**
 
-(https://www.udemy.com/), Given by Dr. Angela Yu, Developer and Lead Instructor
+**It was developed during Section 4 - Multi Page Websites, under the project title Capstone Project 1 - Online Resume.**
 
-In a Section 4 - Multi Page Websites , Stage name : Instructions for Capstone Project 1 - Online Resume
+
+
+
+
+
